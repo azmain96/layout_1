@@ -1,0 +1,54 @@
+.container{    background: black;
+    height: 600px;
+    width: 1000px;
+    margin: 0px auto;}
+.header{    background: black;
+    height: 55px;
+    width: 100%;}
+.logo{    background: blue;
+    height: 55px;
+    width: 18%;
+    float: left;}
+.menu{    background: orange;
+    height: 100%;
+    width: 82%;
+    float: left;}
+.list{    background: red;
+    height: 400px;
+    width: 18%;
+    float: left;}
+.banner_1{    background: #43a243;
+    height: 100px;
+    width: 82%;
+    float: right;}
+.banner_2{    background: skyblue;
+    height: 100px;
+    width: 82%;
+    float: right;}
+.body_part{ 
+	background: black;
+    height: 200px;
+    width: 82%;
+    float: right;
+          }
+.body_part-1{ background: yellow;
+    height: 100%;
+    width: 60%;
+    float: right;}
+.body_part-2{    background: #673AB7;
+    height: 100%;
+    width: 40%;
+    float: left;}
+.footer1{    background: #9E9E9E;
+    height: 100px;
+    width: 50%;
+    float: left;}
+.footer2{    background: #ac3c3c;
+    height: 100px;
+    width: 50%;
+    float: left;}
+.copyright{    background: blue;
+    height: 45px;
+    width: 100%;
+    float: left;
+         }
